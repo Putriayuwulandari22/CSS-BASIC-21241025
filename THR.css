@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-variant: small-caps;
+
+    background-color: #0cbeeb;
+    background-image: url(img/wallpaper.jpg);
+    background-repeat: repeat;
+    background-position: center center;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 500;
+    line-height: 1,6em;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:hover {
+    font-style: italic;
+    font-size: larger;
+}
+
+a:active {
+    text-decoration: none;
+}
+a:visited {
+    color: grey;
+}
